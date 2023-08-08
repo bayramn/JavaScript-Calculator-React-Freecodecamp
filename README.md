@@ -1,2 +1,2 @@
-# JavaScript-Calculator-React-Freecodecamp
-https://bayramn.github.io/JavaScript-Calculator-React-Freecodecamp/
+# iphone-calculator-react
+https://bayramn.github.io/iphone-calculator-react
